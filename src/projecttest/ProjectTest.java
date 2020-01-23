@@ -20,6 +20,7 @@ public class ProjectTest {
         // TODO code application logic here
         Scanner in = new Scanner(System.in);
         System.out.println("HI");
+	    System.out.println("abc");
 		String movie[] = new String[3];
 		for (int i = 0; i < movie.length ; i++) {
 			System.out.println("Enter 3 movies");
